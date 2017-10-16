@@ -59,14 +59,6 @@
         var rectangles = svg.selectAll("rect")
           .data(dataArray);
 
-    // Exit
-          rectangles.exit()
-            .transition().duration(1000)
-            .attr("width", 0)
-            .attr("height", 0)
-            .attr("fill", "red")
-            .remove();
-
     // Enter
             var enterRectangles = rectangles.enter().append("rect")
               .attr("width", 30)
@@ -87,6 +79,14 @@
                 return d;
                 })
               .attr("fill", "green");
+
+      // Exit
+            rectangles.exit()
+              .transition().duration(1000)
+              .attr("width", 0)
+              .attr("height", 0)
+              .attr("fill", "red")
+              .remove();
 
       };
 
