@@ -1,51 +1,151 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Dan Spector Information Designer Data Journalist Portfolio">
+    <meta name="author" content="Dan Spector">
+
+    <!-- Latest compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+     <!-- Custom Styles-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <!-- Favicon  -->
+    <link rel="shortcut icon" href="http://placehold.it/16x16/1abc9c&amp;ext=P" >
+    <link rel="icon" type="image/gif" href="http://placehold.it/16x16/1abc9c&amp;text=P" >
+
+   <style type="text/css">
+
+   /*Custom styles for this template*/
+    body {
+      padding-top: 50px;
+    }
+    .starter-template {
+      padding: 40px 15px;
+      text-align: center;
+    }
+   </style>
+
+    <title> Dan Spector | Info Designer </title>
+
+
   </head>
+
   <body>
-    <svg id="mysvg">
-    </svg>
 
-    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js">
-    </script>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" >
+      <div class="container">
+        <!-- add class page-scroll-->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Dan Spector</a>
+        </div>
+        <!-- add class navbar-spy -->
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html#work">My Work</a></li>
+            <li><a href="index.html#contact">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+
+    <div class="container nomargin">
+
+      <section id="header1" class='text-center padding'>
+
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-12">
+
+                <div class="margin"></div>
+
+                 <h1 class="title">D3.js</h1>
+                 <a href=projects/bar_chart/bar_chart_with_updates.html target="_blank"><h2 class="skills">View bar graph</h2></a>
+                 <a href=projects/animated_scatterplot/scatterplot.html target="_blank"><h2 class="skills">View scatterplot</h2></a>
+            </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-8 col-md-offset-2">
+              <div class="card">
+              <img class="card-img-top" src="svg/d3_2.svg" alt="Card image cap">
+                <div class="card-body">
+                  <h4 class="card-title">My adventures in D3</h4>
+                  <p class="card-text">I attempted to teach myself D3 in 2016 using Scott Murray's very handy <a href="http://chimera.labs.oreilly.com/books/1230000000345" target="_blank">book</a>. I wasn't quite able to load-in custom data, but I did succeed in building
+                    a couple of basic charts that update with random data. I am currently enrolled in a D3 course in grad school, where I am visualizing data from the Titanic disaster. More to come!
+                </p>
+                </div>
+              </div>
+              </div>
+            </div>
+
+            <br>
+            <br>
+
+            <section id="contact" class='text-center'>
+
+                <h3 class="title">Contact Me</h3>
+                <hr class="star"><br>
+
+
+               <div class="container">
+
+                 <div class="row">
+
+                   <div class="social-media">
+
+                     <h3>
+                       <script language="JavaScript">
+                       var username = "spector";
+                       var hostname = "fastmail.com";
+                       var linktext = username + "@" + hostname ;
+                       document.write(username + "@" + hostname);
+                       </script>
+                     </h3><br>
+
+                     <ul class="socials list-inline">
+                         <li>
+                           <a href="#" class="btn-social"><i class= "fa fa-twitter"></i></a>
+                         </li>
+                         <li>
+                           <a href="#" class="btn-social"><i class="fa fa-linkedin"></i></a>
+                         </li>
+                     </ul>
+
+                 </div><!-- social-media-->
+
+                 </div><!--row-->
+
+               </div><!--container -->
+
+           </section>
 
 
 
-    <script type="text/javascript">
+</div><!-- /.container nomargin -->
 
-      function draw(dataArray) {
-        var svg = d3.select("#mysvg")
-          .attr("width", window.innerWidth)
-          .attr("height", window.innerHeight);
 
-        var circles = svg.selectAll(".dot")
-          .data(dataArray);
-
-        circles.exit()
-          .transition().duration(1000)
-          .attr("r", 0)
-          .remove();
-
-        var enterCircles = circles.enter().append("circle")
-          .attr("r", 0)
-          .attr("cy", "50")
-          .attr("cx", function(d, i) {
-            return 50 * (i+1);
-          })
-          .attr("class", "dot");
-
-          circles.merge(enterCircles)
-            .transition().duration(1000)
-            .attr("r", function(d){
-              return (d);
-            })
-      }
-
-      draw([2, 4, 6, 8])
-
-    </script>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
 
   </body>
 </html>
