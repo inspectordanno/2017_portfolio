@@ -16,15 +16,25 @@
     console.log(data);
     var titanicData = data;
 
-
+    var men = 0;
+    var women = 0;
     titanicData.forEach(function(person,i) {
 
-      for (var key in person) {
-        console.log(key, person[key]);
-      };
-
+      if (person.Sex == "male") {
+        men = men + 1;
+      }
+      else if (person.Sex == "female") {
+        women = women + 1;
+      }
 
     });
+
+    console.log(men, women);
+
+    var svg = d3.select("#mysvg");
+
+    var bars = svg.selectAll("rect")
+      .data([men, women])
 
   });
 
