@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
      <!-- Custom Styles-->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 
     <!-- Favicon  -->
     <link rel="shortcut icon" href="http://placehold.it/16x16/1abc9c&amp;ext=P" >
@@ -74,10 +74,7 @@
             </div>
 
             <div class="row">
-              <div class="col-md-12">
-              <svg viewBox="0 0 960 500">
-                <rect x="0" y="0" width="100%" height="100%" fill="gray" />
-              </svg>
+              <div class="col-md-12 svg-container-1">
               </div>
             </div>
 
@@ -89,13 +86,13 @@
 
               </div>
               <div class="col-md-2">
-              <button type="button" class="btn btn-success" name="button">First Class</button>
+              <button type="button" id="first-class" class="btn btn-success" name="button">First Class</button>
               </div>
               <div class="col-md-2">
-              <button type="button" class="btn btn-info" name="button">Second Class</button>
+              <button type="button" id="second-class" class="btn btn-info" name="button">Second Class</button>
               </div>
               <div class="col-md-2">
-              <button type="button" class="btn btn-warning" name="button">Third Class</button>
+              <button type="button" id="third-class" class="btn btn-warning" name="button">Third Class</button>
               </div>
               <div class="col-md-3">
 
@@ -169,13 +166,9 @@
 </div><!-- /.container nomargin -->
 
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/main.js"></script>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="titanic3.js"></script>
 
   </body>
 </html>
