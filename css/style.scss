@@ -159,10 +159,6 @@ body {
 	font-size: 24px;
 }
 
-svg {
-	margin-top: 5%;
-}
-
 .card {
 	margin-top: 40px;
 }
@@ -389,4 +385,16 @@ img.svg {
 	margin-top: 5%;
 	border: 1px solid $black;
 	padding: 1%;
+}
+
+//individual svgs
+
+.svg_trips {
+	width: 90%;
+	height: 90%;
+}
+
+.media_svg {
+	width: 80%;
+	height: 80%;
 }
