@@ -48,7 +48,7 @@ body {
 #header {
 	background: $color_athens_gray_approx;
 	color: $color_pickled_bluewood_approx;
-	height: 620px !important;
+	height: 300px !important;
 	padding: 55px 0;
 
 	.skills {
@@ -184,9 +184,9 @@ body {
 	}
 }
 @media(max-width: 991px) {
-	#header {
-		height: 540px !important;
-	}
+	// #header {
+	// 	height: 540px !important;
+	// }
 
 	#header1 {
 		height: 1020px !important;
@@ -206,7 +206,7 @@ body {
 }
 @media(max-width: 767px) {
 	#header {
-		height: 540px !important;
+		height: 275px !important;
 
 		.skills {
 			font-size: 1.5em;
@@ -286,7 +286,7 @@ body {
 }
 @media(max-width: 620px) {
 	#header {
-		height: 530px !important;
+		// height: 530px !important;
 	}
 
 	.illustration {
@@ -314,7 +314,7 @@ body {
 }
 @media(max-width: 480px) {
 	#header {
-		height: 480px !important;
+		 height: 250px !important;
 
 		.skills {
 			font-size: 1.3em;
@@ -375,9 +375,9 @@ body {
 	}
 }
 
-.navbar-collapse .navbar-nav {
-	float: right;
-}
+// .navbar-collapse .navbar-nav {
+// 	float: right;
+// }
 
 footer p {}
 
