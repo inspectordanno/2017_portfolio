@@ -50,20 +50,18 @@ body {
   height: 1400px !important;
   padding-bottom: 10px; }
 
-#work {
-  padding: 40px 0; }
-  #work .portfolio-item {
+#work .portfolio-item {
+  border-radius: 15px;
+  height: 300px;
+  background: #eee; }
+  #work .portfolio-item img {
     border-radius: 15px;
-    height: 300px;
-    background: #eee; }
-    #work .portfolio-item img {
-      border-radius: 15px;
-      margin: 20px 0;
-      opacity: 1;
-      transition: all 0.3s; }
-      #work .portfolio-item img:hover {
-        margin: 5px 0;
-        opacity: 0.7; }
+    margin: 20px 0;
+    opacity: 1;
+    transition: all 0.3s; }
+    #work .portfolio-item img:hover {
+      margin: 5px 0;
+      opacity: 0.7; }
 
 #contact {
   font-family: Lato, sans-serif; }
