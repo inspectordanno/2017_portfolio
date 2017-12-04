@@ -96,7 +96,7 @@ body {
     margin-left: 37%; } }
 @media (min-width: 1200px) {
   #header1 .svg {
-    width: 90%; }
+    width: 70%; }
 
   #work .portfolio-item {
     border-radius: 15px;
@@ -223,6 +223,4 @@ img.svg {
   border: 1px solid black;
   padding: 1%; }
 
-.subheading {
-  font-size: 2rem;
-  text-align: center; }
+/*# sourceMappingURL=style.css.map */
