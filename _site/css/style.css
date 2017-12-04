@@ -101,7 +101,7 @@ body {
     padding: 35px 0; } }
 @media (min-width: 1200px) {
   #header1 .svg {
-    width: 70%; }
+    width: 90%; }
 
   #work .portfolio-item {
     border-radius: 15px;
@@ -228,5 +228,7 @@ img.svg {
   margin-top: 5%;
   border: 1px solid black;
   padding: 1%; }
+
+/*# sourceMappingURL=style.css.map */
 
 /*# sourceMappingURL=style.css.map */
