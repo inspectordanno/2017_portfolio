@@ -34,7 +34,7 @@ function draw(passengerClass) {
       .attr("height", function(d) {
         return yScale(d.value);
       })
-      .attr("width", barWidth)
+      .attr("width", w / 2 - barPadding)
       .attr("x", function(d, i) {
         return i * (w / 2);
       })
@@ -42,7 +42,6 @@ function draw(passengerClass) {
         return h - yScale(d.value);
       });
   }
-
 
   bars.enter()
     .append("rect")
@@ -89,14 +88,12 @@ function draw(passengerClass) {
 }
 
 var titanicData;
-var h, w, barPadding, barWidth, yScale, svg;
+var h, w, barPadding, yScale, svg;
 
 d3.csv("titanic.csv", function(error, data) {
   w = 200;
   h = 300;
   barPadding = 10;
-  barWidth = (w/2) - barPadding;
-
 
   yScale = d3.scaleLinear()
     .domain([0, 1313])
@@ -124,21 +121,6 @@ d3.csv("titanic.csv", function(error, data) {
   });
 
   draw("all");
-
-  svg.append("text")
-    .attr("x", barWidth/2)
-    .attr("y", h - barPadding)
-    .attr("text-anchor", "middle")
-    .attr("fill", "white")
-    .text("Lived");
-
-  svg.append("text")
-    .attr("x", (w/2) + (barWidth/2))
-    .attr("y", h - barPadding)
-    .attr("text-anchor", "middle")
-    .attr("fill", "white")
-    .text("Died");}
-
 
 
 });
