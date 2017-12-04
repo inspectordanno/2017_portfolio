@@ -1,30 +1,19 @@
----
----
-
 * {
-  font-family: 'Rubik', sans-serif;
-}
+  font-family: 'Rubik', sans-serif; }
 
 .jumbotron {
   background-color: #bdc3c7;
-  margin-bottom: 0;
-
-  h1 {
+  margin-bottom: 0; }
+  .jumbotron h1 {
     color: #3498db;
-    font-size: 3em;
-
-  }
-
-}
+    font-size: 3em; }
 
 .directions {
   background-color: #3498db;
   color: #bdc3c7;
-  padding: 2em;
-}
+  padding: 2em; }
 
 .btn {
   background: #bdc3c7;
   color: #3498db;
-  font-weight: bolder;
-}
+  font-weight: bolder; }
