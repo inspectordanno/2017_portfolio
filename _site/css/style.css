@@ -201,6 +201,12 @@ body {
   width: 50%;
   height: 50%; }
 
+.lifeboat {
+  width: 50%;
+  height: 50%;
+  margin-top: 4%;
+  margin-bottom: 4%; }
+
 #work .portfolio-item {
   border-radius: 15px;
   height: 300px;

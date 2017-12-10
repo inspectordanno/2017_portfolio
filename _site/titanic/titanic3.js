@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 // $("body").on("click", function(){
 //   console.log("hello");
-// 
+//
 // });
 
 
@@ -62,9 +62,9 @@ function draw(passengerClass) {
     })
     .attr("fill", function(d) {
       if (d.category === "survived") {
-        return "blue";
+        return "#34495e";
       } else if (d.category === "died") {
-        return "red";
+        return "grey";
       }
     })
     .call(styleBars);
