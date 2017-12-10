@@ -36,7 +36,9 @@ body {
 #header .skills {
   font-size: 1.8em;
   font-weight: lighter;
-  text-align: center; }
+  text-align: left;
+  width: 300px;
+  margin: auto; }
 
 .header-icon {
   font-size: 0.5em;
@@ -101,7 +103,7 @@ body {
     padding: 35px 0; } }
 @media (min-width: 1200px) {
   #header1 .svg {
-    width: 90%; }
+    width: 100%; }
 
   #work .portfolio-item {
     border-radius: 15px;
@@ -119,7 +121,8 @@ body {
     height: 275px !important; }
 
   #header .skills {
-    font-size: 1.5em; }
+    font-size: 1.5em;
+    width: 250px; }
 
   .title {
     font-size: 2.8em; }
@@ -165,7 +168,8 @@ body {
     height: 250px !important; }
 
   #header .skills {
-    font-size: 1.3em; }
+    width: 200px;
+    font-size: 1.2em; }
 
   .title {
     font-size: 2.2em; }
@@ -182,12 +186,12 @@ body {
   #work .portfolio-item {
     width: 95%; } }
 .svg_trips {
-  width: 90%;
-  height: 90%; }
+  width: 110%;
+  height: 110%; }
 
-.media_svg {
-  width: 80%;
-  height: 80%; }
+#header1 .media_svg {
+  width: 75%;
+  height: 75%; }
 
 .bell {
   width: 50%;

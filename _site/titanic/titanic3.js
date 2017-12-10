@@ -1,3 +1,14 @@
+$(document).ready(function(){
+
+
+//collapse navbar
+
+// $("body").on("click", function(){
+//   console.log("hello");
+// 
+// });
+
+
 function draw(passengerClass) {
 
   var survived = 0;
@@ -34,7 +45,7 @@ function draw(passengerClass) {
       .attr("height", function(d) {
         return yScale(d.value);
       })
-      .attr("width", w / 2 - barPadding)
+      .attr("width", barWidth)
       .attr("x", function(d, i) {
         return i * (w / 2);
       })
@@ -42,6 +53,7 @@ function draw(passengerClass) {
         return h - yScale(d.value);
       });
   }
+
 
   bars.enter()
     .append("rect")
@@ -72,13 +84,14 @@ function draw(passengerClass) {
     ]);
 
   labels.enter().append("text")
-    .attr("y", 20)
+    .attr("y", 80)
     .text(function(d) {
       return d.value;
     })
     .attr("x", function(d, i) {
-      return i * (w / 2);
-    });
+      return i * (w / 2) + barWidth/2;
+    })
+    .attr("text-anchor", "middle");
 
   labels
     .text(function(d) {
@@ -88,12 +101,15 @@ function draw(passengerClass) {
 }
 
 var titanicData;
-var h, w, barPadding, yScale, svg;
+var h, w, barPadding, barWidth, yScale, svg;
+
 
 d3.csv("titanic.csv", function(error, data) {
   w = 200;
   h = 300;
   barPadding = 10;
+  barWidth = (w/2) - barPadding;
+
 
   yScale = d3.scaleLinear()
     .domain([0, 1313])
@@ -108,19 +124,38 @@ d3.csv("titanic.csv", function(error, data) {
   console.log(data);
   titanicData = data;
 
-  d3.select("#first-class").on("click", function() {
+  $("#first-class").on("click", function() {
     draw("1st");
   });
 
-  d3.select("#second-class").on("click", function() {
+  $("#second-class").on("click", function() {
     draw("2nd");
   });
 
-  d3.select("#third-class").on("click", function() {
+  $("#third-class").on("click", function() {
     draw("3rd");
+  });
+
+  $("#total").on("click", function() {
+    draw("all");
   });
 
   draw("all");
 
+  svg.append("text")
+    .attr("x", barWidth/2)
+    .attr("y", h - barPadding)
+    .attr("text-anchor", "middle")
+    .attr("fill", "white")
+    .text("Lived");
 
+  svg.append("text")
+    .attr("x", (w/2) + (barWidth/2))
+    .attr("y", h - barPadding)
+    .attr("text-anchor", "middle")
+    .attr("fill", "white")
+    .text("Died");
+
+
+  });
 });

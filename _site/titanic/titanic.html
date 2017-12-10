@@ -6,9 +6,12 @@
     <meta name="description" content="Dan Spector Information Designer Data Journalist Portfolio">
     <meta name="author" content="Dan Spector">
 
+    <script src="inc/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
     <!-- Latest compiled and minified Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -32,7 +35,6 @@
    </style>
 
     <title> Dan Spector | Info Designer </title>
-
 
   </head>
 
@@ -82,38 +84,25 @@
               </div>
             </div>
 
-            <div class="row">
-              <div class="col-xs-4">
-              </div>
-              <div class="col-xs-2">
-                Lived
-              </div>
-              <div class="col-xs-2">
-                Died
-              </div>
-              <div class="col-xs-4">
-              </div>
-            </div>
 
             <br>
 
 
-            <div class="row">
-              <div class="col-md-3">
+              <div class="btn-group" data-toggle="buttons">
+                  <label class="btn btn-primary active" id="total">
+                    <input type="radio" name="options" autocomplete="off" checked> Total (preselected)
+                  </label>
+                  <label class="btn btn-primary" id="first-class">
+                    <input type="radio" name="options" autocomplete="off"> First Class
+                  </label>
+                  <label class="btn btn-primary" id="second-class">
+                    <input type="radio" name="options" autocomplete="off"> Second Class
+                  </label>
+                  <label class="btn btn-primary" id="third-class">
+                    <input type="radio" name="options" autocomplete="off"> Third Class
+                  </label>
+                </div>
 
-              </div>
-              <div class="col-md-2">
-              <button type="button" id="first-class" class="btn btn-success" name="button">First Class</button>
-              </div>
-              <div class="col-md-2">
-              <button type="button" id="second-class" class="btn btn-info" name="button">Second Class</button>
-              </div>
-              <div class="col-md-2">
-              <button type="button" id="third-class" class="btn btn-warning" name="button">Third Class</button>
-              </div>
-              <div class="col-md-3">
-
-              </div>
             </div>
 
             <div class="row">
@@ -183,9 +172,11 @@
 </div><!-- /.container nomargin -->
 
 
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="titanic3.js"></script>
 
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src="titanic3.js"></script>
+
+
 
   </body>
 </html>
