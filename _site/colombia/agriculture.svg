@@ -14,9 +14,10 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 792 612"
 	 style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:#9E73B0;stroke:#736E6E;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:none;}
-	.st2{font-family:'Lato-Regular';}
+	.st2{font-family:'Lato';}
 	.st3{font-size:10px;}
 	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#EF7B7C;}

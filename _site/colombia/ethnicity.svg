@@ -3,6 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:#90D3EE;}
 	.st1{fill:#84A982;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st2{fill:#9F9F9F;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
@@ -10,7 +11,7 @@
 	.st4{fill:#010202;}
 	.st5{fill:none;}
 	.st6{fill:#59818E;}
-	.st7{font-family:'Lato-Regular';}
+	.st7{font-family:'Lato';}
 	.st8{font-size:14.949px;}
 	.st9{fill:#84A982;}
 	.st10{fill:#828282;}
@@ -57,7 +58,7 @@
 	<path class="st1" d="M226.8,243"/>
 	<circle class="st11" cx="606.8" cy="55.7" r="12.2"/>
 	<rect x="623.4" y="50.9" class="st5" width="80.7" height="12.2"/>
-	<text transform="matrix(1 0 0 1 623.4278 59.7863)" class="st12 st13">Each dot = 6%</text>
+	<text transform="matrix(1 0 0 1 623.4278 59.7863)" class="st7 st8">Each dot = 6%</text>
 	<rect x="340.9" y="13.7" class="st5" width="81" height="19.3"/>
 	<text transform="matrix(1 0 0 1 340.916 28.3478)" class="st7 st14">Ethnicity</text>
 	<rect x="261.5" y="508.7" class="st5" width="249.3" height="97.7"/>

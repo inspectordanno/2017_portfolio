@@ -3,15 +3,16 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:none;}
-	.st2{font-family:'MyriadPro-Regular';}
+	.st2{font-family:'Lato';}
 	.st3{font-size:13.2px;}
-	.st4{fill:#90D3EE;}
-	.st5{font-family:'MyriadPro-Semibold';}
+	.st4{fill:#6C9DAD;}
+	.st5{font-size:15px;}
 	.st6{font-size:17.6px;}
-	.st7{font-family:'Lato-Regular';}
-	.st8{fill:#EF7B7C;}
+	.st7{fill:#EF7B7C;}
+	.st8{fill:#1D1D1B;}
 </style>
 <line class="st0" x1="0.6" y1="329" x2="793.1" y2="329"/>
 <line class="st0" x1="119.5" y1="329" x2="119.5" y2="252.6"/>
@@ -20,30 +21,44 @@
 <line class="st0" x1="607.9" y1="329" x2="607.9" y2="415.3"/>
 <line class="st0" x1="266.7" y1="329" x2="266.7" y2="411.6"/>
 <rect x="70.3" y="191.5" class="st1" width="161.9" height="61.1"/>
-<text transform="matrix(1 0 0 1 70.3105 200.8252)"><tspan x="0" y="0" class="st2 st3">During its precolonial period, </tspan><tspan x="0" y="15.8" class="st2 st3">Colombia was inhabited by </tspan><tspan x="0" y="31.7" class="st2 st3">Chibcha, sub-Andean and </tspan><tspan x="0" y="47.5" class="st2 st3">Caribbean peoples.</tspan></text>
+<text transform="matrix(1 0 0 1 70.3105 200.8252)" class="st2 st3">During its precolonial period, </text>
+<text transform="matrix(1 0 0 1 70.3105 216.6252)" class="st2 st3">Colombia was inhabited by </text>
+<text transform="matrix(1 0 0 1 70.3105 232.5252)" class="st2 st3">Chibcha, sub-Andean and </text>
+<text transform="matrix(1 0 0 1 70.3105 248.3252)" class="st2 st3">Caribbean peoples.</text>
 <rect x="205.7" y="416" class="st1" width="155.6" height="122.2"/>
-<text transform="matrix(1 0 0 1 205.7075 425.3906)"><tspan x="0" y="0" class="st2 st3">The Spanish conquest of </tspan><tspan x="0" y="15.8" class="st2 st3">the country began.</tspan></text>
-<rect x="538.2" y="418.8" class="st1" width="164.5" height="122.2"/>
-<text transform="matrix(1 0 0 1 538.2402 428.1787)"><tspan x="0" y="0" class="st2 st3">The Viceroyalty of New Gra</tspan><tspan x="147.8" y="0" class="st2 st3">-</tspan><tspan x="0" y="15.8" class="st2 st3">nada was created. The colony </tspan><tspan x="0" y="31.7" class="st2 st3">prospered, exporting pre</tspan><tspan x="137.5" y="31.7" class="st2 st3">-</tspan><tspan x="0" y="47.5" class="st2 st3">cious meals and minerals.</tspan></text>
+<text transform="matrix(1 0 0 1 205.7075 425.3906)" class="st2 st3">The Spanish conquest of </text>
+<text transform="matrix(1 0 0 1 205.7075 441.1906)" class="st2 st3">the country began.</text>
 <rect x="352.7" y="204" class="st1" width="187.1" height="43.7"/>
-<text transform="matrix(1 0 0 1 352.7373 213.4126)"><tspan x="0" y="0" class="st2 st3">Gonzalo Jimenez de Quesada </tspan><tspan x="0" y="15.8" class="st2 st3">founded Bogotá, and named the </tspan><tspan x="0" y="31.7" class="st2 st3">area New Granada.</tspan></text>
+<text transform="matrix(1 0 0 1 352.7373 213.4126)" class="st2 st3">Gonzalo Jimenez de Quesada </text>
+<text transform="matrix(1 0 0 1 352.7373 229.2126)" class="st2 st3">founded Bogotá, and named the </text>
+<text transform="matrix(1 0 0 1 352.7373 245.1126)" class="st2 st3">area New Granada.</text>
 <rect x="607.9" y="200.8" class="st1" width="155.6" height="51.7"/>
-<text transform="matrix(1 0 0 1 607.8691 210.2202)"><tspan x="0" y="0" class="st2 st3">The Spanish government </tspan><tspan x="0" y="15.8" class="st2 st3">repressed a movement </tspan><tspan x="0" y="31.7" class="st2 st3">towards independence.</tspan></text>
+<text transform="matrix(1 0 0 1 607.8691 210.2202)" class="st2 st3">The Spanish government </text>
+<text transform="matrix(1 0 0 1 607.8691 226.0202)" class="st2 st3">repressed a movement </text>
+<text transform="matrix(1 0 0 1 607.8691 241.9202)" class="st2 st3">towards independence.</text>
 <rect x="58.7" y="334.9" class="st1" width="136.9" height="28.9"/>
-<text transform="matrix(1 0 0 1 58.6782 347.3574)" class="st4 st5 st6">Prehistory–1500</text>
+<text transform="matrix(1 0 0 1 58.6782 347.3574)" class="st4 st2 st5">Prehistory–1500</text>
 <rect x="232.2" y="308.6" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 232.1973 321.083)" class="st4 st5 st6">1500–25</text>
+<g>
+	<text transform="matrix(1 0 0 1 232.1973 321.083)" class="st4 st2 st5">1500–25</text>
+</g>
 <rect x="396.8" y="334.9" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 396.8389 347.3574)" class="st4 st5 st6">1538</text>
+<g>
+	<text transform="matrix(1 0 0 1 398.8389 347.3574)" class="st4 st2 st5">1538</text>
+</g>
 <polygon class="st1" points="660.4,337.5 571.7,337.5 583.8,308.6 660.4,308.6 "/>
-<text transform="matrix(1 0 0 1 583.3223 321.082)" class="st4 st5 st6">1700s</text>
+<g>
+	<text transform="matrix(1 0 0 1 586.3223 321.082)" class="st4 st2 st5">1700s</text>
+</g>
 <rect x="651.6" y="334.9" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 651.5684 347.3574)" class="st4 st5 st6">1810–15</text>
+<g>
+	<text transform="matrix(1 0 0 1 651.5684 347.3574)" class="st4 st2 st5">1810–15</text>
+</g>
 <rect x="279.4" y="77.2" class="st1" width="244" height="17.1"/>
-<text transform="matrix(1 0 0 1 279.4092 90.189)" class="st7 st6">Timeline of Colombian History</text>
+<text transform="matrix(1 0 0 1 279.4092 90.189)" class="st2 st6">Timeline of Colombian History</text>
 <g>
 	<g>
-		<path class="st8" d="M285.3,455.1L266.6,472l-18.5-16.9c-0.4,3.3,0.2,6.5,3.1,9.2l11.9,10.8l-9,8.2l-4.6-5
+		<path class="st7" d="M285.3,455.1L266.6,472l-18.5-16.9c-0.4,3.3,0.2,6.5,3.1,9.2l11.9,10.8l-9,8.2l-4.6-5
 			c-3.1,2.9-3.8,7.4-1.9,11l-8.5,7.8c-0.9,0.9-1,2.4-0.2,3.4c0.9,0.9,2.4,1,3.3,0.2l8.5-7.8c3.4,2.2,8,1.9,11.1-0.9l-4.6-5l9.3-8.5
 			l9.5,8.6l-4.6,5c3.2,2.9,7.7,3.1,11.1,0.9l8.5,7.8c0.9,0.9,2.5,0.8,3.3-0.2s0.9-2.5-0.2-3.3l-8.5-7.8c1.9-3.6,1.2-8.2-1.9-11
 			l-4.6,5l-9.1-8.3l12-10.9C285.1,461.5,285.7,458.4,285.3,455.1z"/>
@@ -51,15 +66,17 @@
 </g>
 <g>
 	<g>
-		<path class="st8" d="M594,532h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9l-3.4-11.7C595,532.3,594.5,532,594,532z"/>
-		<path class="st8" d="M605.9,518.5c-0.1-0.5-0.6-0.8-1.1-0.8h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9L605.9,518.5z"/>
-		<path class="st8" d="M629,530.2l-3.4-11.7c-0.1-0.5-0.6-0.8-1.1-0.8h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7H629z"/>
-		<path class="st8" d="M613.7,532h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9l-3.4-11.7C614.7,532.3,614.2,532,613.7,532z"/>
-		<path class="st8" d="M634.6,532.8c-0.1-0.5-0.6-0.8-1.1-0.8h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9L634.6,532.8z"/>
-		<polygon class="st8" points="598.1,511.2 599.8,507.8 603.2,506.1 599.8,504.4 598.1,501 596.4,504.4 593.1,506.1 596.4,507.8 		
+		<path class="st7" d="M594,532h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9l-3.4-11.7C595,532.3,594.5,532,594,532z"/>
+		<path class="st7" d="M605.9,518.5c-0.1-0.5-0.6-0.8-1.1-0.8h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9L605.9,518.5z"/>
+		<path class="st7" d="M629,530.2l-3.4-11.7c-0.1-0.5-0.6-0.8-1.1-0.8h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7H629z"/>
+		<path class="st7" d="M613.7,532h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9l-3.4-11.7C614.7,532.3,614.2,532,613.7,532z"/>
+		<path class="st7" d="M634.6,532.8c-0.1-0.5-0.6-0.8-1.1-0.8h-9c-0.5,0-1,0.3-1.1,0.8l-3.4,11.7h17.9L634.6,532.8z"/>
+		<polygon class="st7" points="598.1,511.2 599.8,507.8 603.2,506.1 599.8,504.4 598.1,501 596.4,504.4 593.1,506.1 596.4,507.8
 			"/>
-		<polygon class="st8" points="610.7,514 611.5,512.4 613.2,511.5 611.5,510.7 610.7,509 609.8,510.7 608.2,511.5 609.8,512.4 		"/>
-		<polygon class="st8" points="618.6,505.9 620,503.3 622.6,501.9 620,500.6 618.6,497.9 617.3,500.6 614.6,501.9 617.3,503.3 		"/>
+		<polygon class="st7" points="610.7,514 611.5,512.4 613.2,511.5 611.5,510.7 610.7,509 609.8,510.7 608.2,511.5 609.8,512.4 		"/>
+		<polygon class="st7" points="618.6,505.9 620,503.3 622.6,501.9 620,500.6 618.6,497.9 617.3,500.6 614.6,501.9 617.3,503.3 		"/>
 	</g>
 </g>
+<rect x="537.4" y="419.1" class="st1" width="170.3" height="58.2"/>
+<text transform="matrix(1 0 0 1 537.4424 428.8333)"><tspan x="0" y="0" class="st8 st2 st3">The Viceroyalty of New </tspan><tspan x="0" y="15.8" class="st8 st2 st3">Granada was created. The </tspan><tspan x="0" y="31.7" class="st8 st2 st3">colony prospered, exporting </tspan><tspan x="0" y="47.5" class="st8 st2 st3">precious meals and minerals.</tspan></text>
 </svg>

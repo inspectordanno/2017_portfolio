@@ -3,8 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:none;}
-	.st1{font-family:'Lato-Regular';}
+	.st1{font-family:'Lato';}
 	.st2{font-size:15px;}
 	.st3{fill:#59818E;}
 	.st4{font-size:13.304px;}
@@ -21,7 +22,7 @@
 	.st15{fill:#010202;}
 	.st16{fill:#DFDFDF;}
 	.st17{fill:#9F9F9F;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
-	.st18{font-family:'Lato-Bold';}
+	.st18{font-family:'Lato';}
 </style>
 <rect x="451.5" y="152.3" class="st0" width="310.4" height="129.1"/>
 <text transform="matrix(1 0 0 1 451.4797 163.3804)"><tspan x="0" y="0" class="st1 st2">Colombia is comprised of 48.65 million people. </tspan><tspan x="0" y="18" class="st1 st2">It has the second largest population in Latin </tspan><tspan x="0" y="36" class="st1 st2">America. Although it is heavily urbanized, it still </tspan><tspan x="0" y="54" class="st1 st2">has a relatively low population density, when </tspan><tspan x="0" y="72" class="st1 st2">compared to a small, heavily populated country </tspan><tspan x="0" y="90" class="st1 st2">like Bangladesh.</tspan></text>
@@ -117,26 +118,26 @@
 <g>
 	<circle class="st15" cx="451.2" cy="421.9" r="2.8"/>
 	<circle class="st15" cx="460.2" cy="421.9" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -160.8515 455.4223)" class="st15" cx="469.3" cy="421.9" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -158.16 461.9201)" class="st15" cx="478.5" cy="421.9" rx="2.8" ry="2.8"/>
 </g>
 <g>
 	<circle class="st15" cx="589.9" cy="424.6" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="424.6" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -122.1773 554.2941)" class="st15" cx="608" cy="424.6" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -119.4858 560.7919)" class="st15" cx="617.2" cy="424.6" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -116.7603 567.3718)" class="st15" cx="626.5" cy="424.6" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="589.9" cy="514" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="514" r="2.8"/>
 	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -185.3589 580.4648)" class="st15" cx="608" cy="514" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -182.6674 586.9626)" class="st15" cx="617.2" cy="514" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -179.9419 593.5425)" class="st15" cx="626.5" cy="514" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="424.6" r="2.8"/>
 	<circle class="st15" cx="643" cy="424.6" r="2.8"/>
@@ -145,11 +146,11 @@
 	<circle class="st15" cx="668.2" cy="424.6" r="2.8"/>
 	<circle class="st15" cx="589.9" cy="433.8" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="433.8" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -128.6747 556.9854)" class="st15" cx="608" cy="433.8" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -125.9832 563.4832)" class="st15" cx="617.2" cy="433.8" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -123.2578 570.0631)" class="st15" cx="626.5" cy="433.8" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="433.8" r="2.8"/>
 	<circle class="st15" cx="643" cy="433.8" r="2.8"/>
@@ -159,9 +160,9 @@
 	<circle class="st15" cx="589.9" cy="443" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="443" r="2.8"/>
 	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -135.1721 559.6768)" class="st15" cx="608" cy="443" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -132.4807 566.1746)" class="st15" cx="617.2" cy="443" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -129.7552 572.7545)" class="st15" cx="626.5" cy="443" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="443" r="2.8"/>
 	<circle class="st15" cx="643" cy="443" r="2.8"/>
@@ -170,11 +171,11 @@
 	<circle class="st15" cx="668.2" cy="443" r="2.8"/>
 	<circle class="st15" cx="589.9" cy="452.2" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="452.2" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -141.6696 562.3681)" class="st15" cx="608" cy="452.2" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -138.9781 568.8659)" class="st15" cx="617.2" cy="452.2" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -136.2526 575.4458)" class="st15" cx="626.5" cy="452.2" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="452.2" r="2.8"/>
 	<circle class="st15" cx="643" cy="452.2" r="2.8"/>
@@ -183,11 +184,11 @@
 	<circle class="st15" cx="668.2" cy="452.2" r="2.8"/>
 	<circle class="st15" cx="589.9" cy="460.4" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="460.4" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -147.4573 564.7654)" class="st15" cx="608" cy="460.4" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -144.7658 571.2632)" class="st15" cx="617.2" cy="460.4" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -142.0403 577.8431)" class="st15" cx="626.5" cy="460.4" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="460.4" r="2.8"/>
 	<circle class="st15" cx="643" cy="460.4" r="2.8"/>
@@ -197,9 +198,9 @@
 	<circle class="st15" cx="589.9" cy="470" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="470" r="2.8"/>
 	<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -154.2882 567.5949)" class="st15" cx="608" cy="470" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -151.5967 574.0927)" class="st15" cx="617.2" cy="470" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -148.8713 580.6726)" class="st15" cx="626.5" cy="470" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="470" r="2.8"/>
 	<circle class="st15" cx="643" cy="470" r="2.8"/>
@@ -208,11 +209,11 @@
 	<circle class="st15" cx="668.2" cy="470" r="2.8"/>
 	<circle class="st15" cx="589.9" cy="479.2" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="479.2" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -160.7856 570.2862)" class="st15" cx="608" cy="479.2" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -158.0942 576.784)" class="st15" cx="617.2" cy="479.2" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -155.3687 583.3639)" class="st15" cx="626.5" cy="479.2" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="479.2" r="2.8"/>
 	<circle class="st15" cx="643" cy="479.2" r="2.8"/>
@@ -221,11 +222,11 @@
 	<circle class="st15" cx="668.2" cy="479.2" r="2.8"/>
 	<circle class="st15" cx="589.9" cy="488.4" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="488.4" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -167.2831 572.9775)" class="st15" cx="608" cy="488.4" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -164.5916 579.4753)" class="st15" cx="617.2" cy="488.4" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -161.8661 586.0552)" class="st15" cx="626.5" cy="488.4" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="488.4" r="2.8"/>
 	<circle class="st15" cx="643" cy="488.4" r="2.8"/>
@@ -234,11 +235,11 @@
 	<circle class="st15" cx="668.2" cy="488.4" r="2.8"/>
 	<circle class="st15" cx="589.9" cy="497.6" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="497.6" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -173.7805 575.6688)" class="st15" cx="608" cy="497.6" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -171.089 582.1666)" class="st15" cx="617.2" cy="497.6" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -168.3635 588.7466)" class="st15" cx="626.5" cy="497.6" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="497.6" r="2.8"/>
 	<circle class="st15" cx="643" cy="497.6" r="2.8"/>
@@ -247,11 +248,11 @@
 	<circle class="st15" cx="668.2" cy="497.6" r="2.8"/>
 	<circle class="st15" cx="589.9" cy="505.8" r="2.8"/>
 	<circle class="st15" cx="598.8" cy="505.8" r="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -179.5682 578.0662)" class="st15" cx="608" cy="505.8" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -176.8767 584.564)" class="st15" cx="617.2" cy="505.8" rx="2.8" ry="2.8"/>
-	
+
 		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -174.1512 591.1439)" class="st15" cx="626.5" cy="505.8" rx="2.8" ry="2.8"/>
 	<circle class="st15" cx="634.9" cy="505.8" r="2.8"/>
 	<circle class="st15" cx="643" cy="505.8" r="2.8"/>

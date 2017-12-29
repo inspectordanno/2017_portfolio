@@ -3,10 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 360 260" style="enable-background:new 0 0 360 260;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:#ECF0F1;}
 	.st1{fill:#34495E;}
 	.st2{fill:none;}
-	.st3{font-family:'Lato-Light';}
+	.st3{font-family:'Lato';}
 	.st4{font-size:35px;}
 	.st5{fill:#34495E;stroke:#34495E;stroke-width:0.25;stroke-miterlimit:10;}
 </style>
@@ -32,6 +33,5 @@
 	</g>
 </g>
 <rect x="-5.6" y="207.5" class="st2" width="371.1" height="33"/>
-<text transform="matrix(1 0 0 1 26.5281 233.0362)" class="st1 st3 st4">Titanic Survival Data</text>
-<text transform="matrix(1 0 0 1 26.5281 233.0362)" class="st5 st3 st4">Titanic Survival Data</text>
+<text transform="matrix(1 0 0 1 26.5281 233.0362)" class="st1 st3 st4" font-weight="300">Titanic Survival Data</text>
 </svg>

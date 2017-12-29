@@ -3,14 +3,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 	.st1{fill:none;}
-	.st2{font-family:'MyriadPro-Regular';}
+	.st2{font-family:'Lato';}
 	.st3{font-size:13.2px;}
-	.st4{fill:#90D3EE;}
-	.st5{font-family:'MyriadPro-Semibold';}
-	.st6{font-size:17.6px;}
-	.st7{fill:#EF7B7C;}
+	.st4{fill:#6C9DAD;}
+	.st5{font-size:15px;}
+	.st6{fill:#EF7B7C;}
+	.st7{fill:#1D1D1B;}
 </style>
 <line class="st0" x1="0.6" y1="311.8" x2="793" y2="311.8"/>
 <line class="st0" x1="119.4" y1="311.8" x2="119.4" y2="235.4"/>
@@ -19,43 +20,62 @@
 <line class="st0" x1="607.8" y1="311.8" x2="607.8" y2="398.1"/>
 <line class="st0" x1="266.7" y1="311.8" x2="266.7" y2="394.4"/>
 <rect x="82.4" y="169.3" class="st1" width="177.8" height="61.7"/>
-<text transform="matrix(1 0 0 1 82.373 178.6831)"><tspan x="0" y="0" class="st2 st3">The president, Rafael Nunez, </tspan><tspan x="0" y="15.8" class="st2 st3">re-established ties with the </tspan><tspan x="0" y="31.7" class="st2 st3">church and granted the country </tspan><tspan x="0" y="47.5" class="st2 st3">a common constitution.</tspan></text>
-<rect x="195.1" y="401.7" class="st1" width="155.6" height="79.1"/>
-<text transform="matrix(1 0 0 1 195.0898 411.0381)"><tspan x="0" y="0" class="st2 st3">The War of a Thousand Days </tspan><tspan x="0" y="15.8" class="st2 st3">between Liberals and Con</tspan><tspan x="143" y="15.8" class="st2 st3">-</tspan><tspan x="0" y="31.7" class="st2 st3">servatives devastated the </tspan><tspan x="0" y="47.5" class="st2 st3">country, and ended in </tspan><tspan x="0" y="63.4" class="st2 st3">Conservative victory. </tspan></text>
+<text transform="matrix(1 0 0 1 82.373 178.6831)" class="st2 st3">The president, Rafael Nunez, </text>
+<text transform="matrix(1 0 0 1 82.373 194.4831)" class="st2 st3">re-established ties with the </text>
+<text transform="matrix(1 0 0 1 82.373 210.3831)" class="st2 st3">church and granted the country </text>
+<text transform="matrix(1 0 0 1 82.373 226.1831)" class="st2 st3">a common constitution.</text>
 <rect x="539" y="401.7" class="st1" width="190.3" height="61.1"/>
-<text transform="matrix(1 0 0 1 538.9785 411.0381)"><tspan x="0" y="0" class="st2 st3">Poitical stability was accompanied </tspan><tspan x="0" y="15.8" class="st2 st3">by economic growth, supported </tspan><tspan x="0" y="31.7" class="st2 st3">by the trade in coffee and oil.</tspan></text>
+<text transform="matrix(1 0 0 1 538.9785 411.0381)" class="st2 st3">Poitical stability was accompanied </text>
+<text transform="matrix(1 0 0 1 538.9785 426.8381)" class="st2 st3">by economic growth, supported </text>
+<text transform="matrix(1 0 0 1 538.9785 442.7381)" class="st2 st3">by the trade in coffee and oil.</text>
 <rect x="357" y="169.3" class="st1" width="218.8" height="57.5"/>
-<text transform="matrix(1 0 0 1 356.9902 178.7163)"><tspan x="0" y="0" class="st2 st3">Under pressure from the USA, Colom</tspan><tspan x="202.2" y="0" class="st2 st3">-</tspan><tspan x="0" y="15.8" class="st2 st3">bia accepted the declaration of Pana</tspan><tspan x="200.3" y="15.8" class="st2 st3">-</tspan><tspan x="0" y="31.7" class="st2 st3">ma’s independence. Panama became </tspan><tspan x="0" y="47.5" class="st2 st3">an independent state.</tspan></text>
+<text transform="matrix(1 0 0 1 356.9902 178.7163)" class="st2 st3">Under pressure from the USA, Colo</text>
+<text transform="matrix(1 0 0 1 559.1902 178.7163)" class="st2 st3">mbia</text>
+<text transform="matrix(1 0 0 1 356.9902 194.5163)" class="st2 st3">accepted the declaration of Panama’s</text>
+<text transform="matrix(1 0 0 1 356.9902 210.4163)" class="st2 st3">independence. Panama became </text>
+<text transform="matrix(1 0 0 1 356.9902 226.2163)" class="st2 st3">an independent state.</text>
 <rect x="616.8" y="186.8" class="st1" width="155.6" height="44.2"/>
-<text transform="matrix(1 0 0 1 616.7842 196.2139)"><tspan x="0" y="0" class="st2 st3">The Liberals returned to </tspan><tspan x="0" y="15.8" class="st2 st3">power, and attempted to </tspan><tspan x="0" y="31.7" class="st2 st3">pursue reformist policies.</tspan></text>
+<text transform="matrix(1 0 0 1 616.7842 196.2139)" class="st2 st3">The Liberals returned to </text>
+<text transform="matrix(1 0 0 1 616.7842 212.0139)" class="st2 st3">power, and attempted to </text>
+<text transform="matrix(1 0 0 1 616.7842 227.9139)" class="st2 st3">pursue reformist policies.</text>
 <rect x="227.4" y="291.4" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 227.3735 303.9424)" class="st4 st5 st6">1899–1903</text>
+<text transform="matrix(1 0 0 1 227.3735 303.9424)" class="st4 st2 st5">1899–1903</text>
 <rect x="572.2" y="292.5" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 572.2285 305.042)" class="st4 st5 st6">1904–30</text>
+<g>
+	<text transform="matrix(1 0 0 1 575.8 305.042)" class="st4 st2 st5">1904–30</text>
+</g>
 <rect x="78.4" y="317.7" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 78.4424 330.2168)" class="st4 st5 st6">1880–8</text>
+<g>
+	<text transform="matrix(1 0 0 1 94.6839 330.2168)" class="st4 st2 st5">1880–8</text>
+</g>
 <rect x="397.5" y="317.7" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 397.498 330.2168)" class="st4 st5 st6">1903</text>
+<g>
+	<text transform="matrix(1 0 0 1 401.5584 330.2168)" class="st4 st2 st5">1903</text>
+</g>
 <rect x="650.3" y="317.7" class="st1" width="88.6" height="28.9"/>
-<text transform="matrix(1 0 0 1 650.2852 330.2168)" class="st4 st5 st6">1930–48</text>
+<g>
+	<text transform="matrix(1 0 0 1 656.3758 330.2168)" class="st4 st2 st5">1930–48</text>
+</g>
 <g>
 	<g>
-		<path class="st7" d="M651.6,469.2h-60.8c-1,0-1.6,0.6-1.6,1.6v34.9c0,0.8,0.6,1.6,1.6,1.6h60.8c0.8,0,1.6-0.6,1.6-1.6v-34.9
-			C653,469.8,652.4,469.2,651.6,469.2z M622.6,495.3v1.4c0,0.8-0.6,1.6-1.6,1.6c-1,0-1.6-0.6-1.6-1.6v-1.2c-0.6-0.2-1.2-0.4-1.6-0.8
-			c-0.6-0.6-1.2-1.6-1.2-3.2c0-0.8,0.6-1.6,1.6-1.6c1,0,1.6,0.6,1.6,1.6c0,0.8,0.4,1.2,1,1.2s1.6-0.4,1.6-1.6c0-1-0.6-1.4-2.2-2.2
-			c-1.4-0.6-3.2-1.6-3.2-3.8c0-2,1-3.6,2.8-4v-1.2c0-0.8,0.6-1.6,1.6-1.6c1,0,1.6,0.6,1.6,1.6v1.4c1.2,0.4,2,1.2,2.4,2
+		<path class="st6" d="M651.6,469.2h-60.8c-1,0-1.6,0.6-1.6,1.6v34.9c0,0.8,0.6,1.6,1.6,1.6h60.8c0.8,0,1.6-0.6,1.6-1.6v-34.9
+			C653,469.8,652.4,469.2,651.6,469.2z M622.6,495.3v1.4c0,0.8-0.6,1.6-1.6,1.6s-1.6-0.6-1.6-1.6v-1.2c-0.6-0.2-1.2-0.4-1.6-0.8
+			c-0.6-0.6-1.2-1.6-1.2-3.2c0-0.8,0.6-1.6,1.6-1.6s1.6,0.6,1.6,1.6c0,0.8,0.4,1.2,1,1.2s1.6-0.4,1.6-1.6c0-1-0.6-1.4-2.2-2.2
+			c-1.4-0.6-3.2-1.6-3.2-3.8c0-2,1-3.6,2.8-4v-1.2c0-0.8,0.6-1.6,1.6-1.6s1.6,0.6,1.6,1.6v1.4c1.2,0.4,2,1.2,2.4,2
 			c0.4,0.6,0.4,1.6-0.4,2c-0.6,0.4-1.6,0.4-2-0.4c0,0-1-1.2-2.2-1c-0.2,0-0.6,0.2-0.6,1.2c0,0.4,0.6,0.6,1.6,1.2c1.6,0.8,4,2,4,5
 			C625.2,493.1,624,494.5,622.6,495.3z"/>
 	</g>
 </g>
 <g>
 	<g transform="translate(0,-1004.3622)">
-		<path class="st7" d="M425.3,1109.7v17.2h26.8v-17.2H425.3z M438.7,1113.9l1,3.4l3.6-0.1l-2.9,2l1.2,3.4l-2.8-2.2l-2.9,2.2l1.2-3.4
+		<path class="st6" d="M425.3,1109.7v17.2h26.8v-17.2H425.3z M438.7,1113.9l1,3.4l3.6-0.1l-2.9,2l1.2,3.4l-2.8-2.2l-2.9,2.2l1.2-3.4
 			l-2.9-2.1l3.6,0.1L438.7,1113.9z"/>
-		<path class="st7" d="M453.4,1109.7h26.8v17.2h-26.8V1109.7z"/>
-		<path class="st7" d="M425.3,1128.2h26.8v17.2h-26.8V1128.2z"/>
-		<path class="st7" d="M453.4,1128.2v17.2h26.8v-17.2H453.4z M466.8,1132.4l1,3.4l3.6-0.1l-2.9,2l1.2,3.4l-2.8-2.2l-2.9,2.2l1.2-3.4
+		<path class="st6" d="M453.4,1109.7h26.8v17.2h-26.8V1109.7z"/>
+		<path class="st6" d="M425.3,1128.2h26.8v17.2h-26.8V1128.2z"/>
+		<path class="st6" d="M453.4,1128.2v17.2h26.8v-17.2H453.4z M466.8,1132.4l1,3.4l3.6-0.1l-2.9,2l1.2,3.4l-2.8-2.2l-2.9,2.2l1.2-3.4
 			l-2.9-2.1l3.6,0.1L466.8,1132.4z"/>
 	</g>
 </g>
+<rect x="184.3" y="398.5" class="st1" width="211.4" height="80.7"/>
+<text transform="matrix(1 0 0 1 184.3292 408.2686)"><tspan x="0" y="0" class="st7 st2 st3">The War of a Thousand Days </tspan><tspan x="0" y="15.8" class="st7 st2 st3">between Liberals and Conservatives </tspan><tspan x="0" y="31.7" class="st7 st2 st3">devastated the country, and ended </tspan><tspan x="0" y="47.5" class="st7 st2 st3">in Conservative victory. </tspan></text>
 </svg>

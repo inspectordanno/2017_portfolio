@@ -3,9 +3,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
 <style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:none;}
 	.st1{fill:#59818E;}
-	.st2{font-family:'Lato-Regular';}
+	.st2{font-family:'Lato';}
 	.st3{font-size:13.5601px;}
 	.st4{fill:#EF7B7C;}
 	.st5{fill:#444444;}
