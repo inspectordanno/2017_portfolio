@@ -3,16 +3,13 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 360 260" style="enable-background:new 0 0 360 260;" xml:space="preserve">
 <style type="text/css">
-	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
-	.st0{fill:#ECF0F1;}
+	@import url('https://fonts.googleapis.com/css?family=Lato');
 	.st1{fill:#34495E;}
-	.st2{fill:none;}
-	.st3{font-family:'Lato';}
-	.st4{font-size:35px;}
-	.st5{fill:#34495E;stroke:#34495E;stroke-width:0.25;stroke-miterlimit:10;}
+	.st2{font-family:'Lato', sans-serif;}
+	.st3{font-size:30px;}
+	.st4{font-weight: 300;}
 </style>
-<title>D3</title>
-<rect class="st0" width="360" height="260"/>
+<title>Titanic Survival Data</title>
 <g>
 	<g>
 		<path class="st1" d="M157.3,59.9h17.8h17.5h17.8v19.2l4.7,2.8V57.5c0-1.4-0.9-2.4-2.4-2.4H195v-9.2h6.4c1.4,0,2.4-0.9,2.4-2.4
@@ -32,6 +29,5 @@
 			s9.7,2.8,12.6,5.2c2.6,2.1,5,4,9.5,4s6.9-1.9,9.5-4c2.8-2.4,6.2-5.2,12.6-5.2C251.9,158.2,252.8,159.4,252.8,160.6z"/>
 	</g>
 </g>
-<rect x="-5.6" y="207.5" class="st2" width="371.1" height="33"/>
-<text transform="matrix(1 0 0 1 26.5281 233.0362)" class="st1 st3 st4" font-weight="300">Titanic Survival Data</text>
+<text transform="matrix(1 0 0 1 42.5281 233.0362)" class="st1 st2 st3 st4">Titanic Survival Data</text>
 </svg>
