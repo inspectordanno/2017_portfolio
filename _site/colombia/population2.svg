@@ -5,7 +5,7 @@
 <style type="text/css">
 	@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 	.st0{fill:none;}
-	.st1{font-family:'Lato';}
+	.st1{font-family:'Lato', sans-serif;}
 	.st2{font-size:15px;}
 	.st3{fill:#FFFFFF;}
 	.st4{fill:none;stroke:#BFBEBF;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4,3;}
