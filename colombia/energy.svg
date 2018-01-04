@@ -12,8 +12,6 @@
 	.st5{font-size:13.3355px;}
 	.st6{fill:#EF7B7C;}
 	.st7{fill:#90D3EE;}
-	.st8{font-family:'MyriadPro-Regular';}
-	.st9{font-size:15px;}
 </style>
 <rect x="458.3" y="22.8" class="st0" width="208.2" height="37.9"/>
 <text transform="matrix(1 0 0 1 471.693 34.2539)" class="st1 st2">Total Energy Consumption</text>
@@ -179,10 +177,10 @@
 	<path class="st7" d="M621.2,543.9h7c0,1.4-1.9,2.3-3.5,2.3S621.2,545.3,621.2,543.9z"/>
 </g>
 <rect x="69.3" y="255" class="st0" width="297.8" height="110.5"/>
-<text transform="matrix(1 0 0 1 69.2753 265.6396)" class="st8 st9">The United States uses roughly 68 times more </text>
-<text transform="matrix(1 0 0 1 69.2753 283.6396)" class="st8 st9">total energy than Colombia. One American’s </text>
-<text transform="matrix(1 0 0 1 69.2753 301.6396)" class="st8 st9">electricity usage would be enough to power </text>
-<text transform="matrix(1 0 0 1 69.2753 319.6396)" class="st8 st9">10.5 Colombians.  Colombia also pledged to </text>
-<text transform="matrix(1 0 0 1 69.2753 337.6396)" class="st8 st9">the UN to cut its carbon emissions 20 percent </text>
-<text transform="matrix(1 0 0 1 69.2753 355.6396)" class="st8 st9">by 2030.</text>
+<text transform="matrix(1 0 0 1 69.2753 265.6396)" class="st1 st2">The United States uses roughly 68 times more </text>
+<text transform="matrix(1 0 0 1 69.2753 283.6396)" class="st1 st2">total energy than Colombia. One American’s </text>
+<text transform="matrix(1 0 0 1 69.2753 301.6396)" class="st1 st2">electricity usage would be enough to power </text>
+<text transform="matrix(1 0 0 1 69.2753 319.6396)" class="st1 st2">10.5 Colombians.  Colombia also pledged to </text>
+<text transform="matrix(1 0 0 1 69.2753 337.6396)" class="st1 st2">the UN to cut its carbon emissions 20 percent </text>
+<text transform="matrix(1 0 0 1 69.2753 355.6396)" class="st1 st2">by 2030.</text>
 </svg>
