@@ -11,7 +11,7 @@ body {
 
 .title {
   font-size: 4em;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato', sans-serif;
   display: block;
   color: #34495e; }
 
@@ -54,7 +54,7 @@ body {
   width: 100%; }
 
 #contact {
-  font-family: Lato, sans-serif; }
+  font-family: 'Lato', sans-serif; }
 
 #contact .btn-social {
   display: inline-block;
@@ -126,6 +126,9 @@ body {
 
   .title {
     font-size: 2.8em; }
+
+  .email {
+    font-size: 1.25em; }
 
   #work .portfolio-item {
     border-radius: 15px;

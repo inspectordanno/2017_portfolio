@@ -3,6 +3,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates:400,700);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
 body {
   font-family: 'Montserrat', sans-serif; }
 
@@ -14,7 +15,7 @@ body {
 
 .title {
   font-size: 4em;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato', sans-serif;
   display: block;
   color: #34495e; }
 
@@ -54,7 +55,7 @@ body {
     width: 100%; }
 
 #contact {
-  font-family: Lato, sans-serif; }
+  font-family: 'Lato', sans-serif; }
   #contact .btn-social {
     display: inline-block;
     width: 50px;
@@ -128,6 +129,10 @@ body {
 
   .title {
     font-size: 2.8em; }
+
+  .email {
+    font-size: 1.25em;
+  }
 
   #work .portfolio-item {
     border-radius: 15px;
