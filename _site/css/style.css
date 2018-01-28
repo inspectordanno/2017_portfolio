@@ -115,7 +115,11 @@ body {
     padding-top: 5%; } }
 @media (max-width: 991px) {
   #work .portfolio-item {
-    height: 160px !important; } }
+    height: 160px !important; }
+
+  .portrait {
+    height: 50%;
+    width: 50%; } }
 @media (max-width: 767px) {
   #header {
     height: 275px !important; }
